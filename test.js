@@ -65,7 +65,7 @@ const main = async () => {
         { name: toLowerLine('windDirection'), value: '', color: getColor() },
         { name: toLowerLine('windScale'), value: '', color: getColor() },
         { name: toLowerLine('loveDay'), value: '', color: getColor() },
-        // { name: toLowerLine('marryDay'), value: '', color: getColor() },
+        { name: toLowerLine('marryDay'), value: '', color: getColor() },
         { name: toLowerLine('birthdayMessage'), value: birthdayMessage, color: getColor() },
         { name: toLowerLine('noteEn'), value: '', color: getColor() },
         { name: toLowerLine('noteCh'), value: '', color: getColor() },
