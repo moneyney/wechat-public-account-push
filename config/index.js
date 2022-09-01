@@ -13,7 +13,7 @@ export const config = {
     TEMPLATE_ID: "ajak4JI-HTxZ-eK9vBi3RYJHxCF4vJ1hgy4iZ8RVa5s",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "XnMupeDx-cRAvp94AAQEBNlcVyj9QCJXkvk46tj8JUI",
+    // CALLBACK_TEMPLATE_ID: "XnMupeDx-cRAvp94AAQEBNlcVyj9QCJXkvk46tj8JUI",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
@@ -63,7 +63,7 @@ export const config = {
     // 在一起的日子，格式同上
     LOVE_DATE: "2017-05-13",
     // 结婚纪念日
-    MARRY_DATE: "2022-10-01",
+    // MARRY_DATE: "2022-10-01",
 
 
     /** 每日一言 */
